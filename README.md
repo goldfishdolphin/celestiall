@@ -1,4 +1,4 @@
-#Celestiall Web App
+# Celestiall Web App
 
 The app allows users to share their amateur photography, local and international events, chat with fellow space fans and navigate the galaxy with an interactive sky map. 
 
